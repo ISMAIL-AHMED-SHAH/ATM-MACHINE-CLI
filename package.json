@@ -1,0 +1,29 @@
+{
+  "name": "shahi-atm-machine",
+  "version": "1.0.0",
+  "description": "The ATM CLI TypeScript project allows users to perform various banking operations such as withdrawals and balance inquiries right from their command line interface. It features a user-friendly interface with intuitive prompts and colorful displays, making banking transactions a breeze! 💰",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "CLI",
+    "ATM machine",
+    "Node.js",
+    "Command Line Interface",
+    "Tasks Management",
+    "Interactive",
+    "Terminal",
+    "Efficiency",
+    "Ismail Ahmed Shah" ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
